@@ -3,19 +3,15 @@ Este es un proyecto de trabajo práctico de funciones en JavaScript con una estr
 
 ## Tabla de Contenidos
 
-- [Instalación](#instalación)
 - [Uso](#uso)
-
-## Instalación
-1. Clonar el repositorio:
-   ```sh
-   git clone https://github.com/Nico96DC/Practico-JavaScript-2024.git
-2. Ir al directorio del archivo y ejecutarlo:
-   cd Practico-JavaScript-2024
 
 ## Uso
 Las instrucciones para la ejecución de los archivos son:
 
-1. Extraer la carpeta y abrir el archivo 'index.html'
-2. Abrir la terminal y ejecutar el comando: 'npm run dev'
-3. Abrir la página localhost generada
+1. Instalar node.js
+2. Decargar o clonar, y extraer el repositorio
+3. Ir al directorio de los archivos:
+   cd Practico-JavaScript-2024
+4. Abrir el directorio con powershell
+5. Ejecutar el comando: 'npm run dev'
+6. Abrir la página localhost generada
